@@ -1,3 +1,1 @@
-# Testbed
-
-test file
+TinDog Starting Files

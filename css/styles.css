@@ -1,0 +1,184 @@
+body{
+    font-family: 'Montserrat Alternates';   
+}
+
+H1{
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bolder;
+}
+
+h2{
+    font-family: 'Montserrat Alternates';
+    font-weight: bolder;
+    padding: 0 50px 25px;
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+H3{
+    font-family: 'Montserrat Alternates';
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+#title{
+    background-color:#ff4c68;
+    color:#fff;
+}
+
+.container-fluid{
+    padding: 3% 15% 0;
+}
+
+/* Navigation Bar */
+
+.navbar{
+    padding: 0 0 2.5rem ;
+}
+
+.navbar-brand{
+    
+    font-size: 3rem;
+    font-weight: bolder;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.nav-item{
+    padding: 0 20px;
+}
+
+.nav-link{
+    font-family:'Montserrat-light', sans-serif;
+    font-size: 1.2rem;
+
+}
+
+/* download buttons */
+
+.download-btn{
+
+    margin: 5% 3% 5% 0;
+}
+
+/* Title-Image */
+
+.Title-Image{
+/*    width: 60%;
+    transform: rotateY(0deg) rotate(25deg);
+    object-fit: contain;*/
+    margin-left: 20%;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 2%;
+    width: 110%;
+}
+
+/* features */
+
+#features{
+text-align: center;
+background-color:#fff;
+padding: 5% 15%;
+
+}
+
+.features-icon{
+
+padding-top: 20%;
+padding-bottom: 10%;
+padding-left: auto;
+padding-right: auto;
+color:#ef8172;
+}
+
+.features-icon:hover{
+    color:#ff4c68;
+}
+
+.features-p{
+    color:#8f8f8f;
+    padding: 5%;
+}
+
+/* testimonials */
+
+#testimonials{
+    
+    text-align: center;
+    background-color:#ff4c68;
+    color:#fff;
+}
+
+.testimonials-img{
+    margin:20px;
+    border-radius: 50%;
+    width: 12rem;
+}
+
+/* Press Section */
+#press{
+    background-color:#ff4c68;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.press-img{
+    width: 10%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+    padding: 7% 11%;
+}
+
+/* Princing */
+
+#pricing{
+
+    text-align: center;
+
+}
+
+.pricing-text {
+    padding: 3% 10% 0 10%;
+}
+
+.row-pricing{
+    margin: 0 50px;
+}
+.pricing-tab{
+    padding: 3% 5%;
+    margin: auto;
+}
+
+.button-premium{
+    padding-bottom: 50px;
+}
+
+.h2-card{
+    padding-bottom: 60px;
+}
+
+/* Call to Action */
+
+#cta{
+    background-color:#ff4c68;
+    text-align: center;
+    padding: 30px 50px 0 50px;
+}
+
+.cta-text{
+   padding-top: 20px;
+}
+
+/* Footer */
+
+#footer{
+
+    background-color:#ff4c68;
+    text-align: center;
+    padding: 20px;
+}
