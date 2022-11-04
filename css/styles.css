@@ -182,3 +182,18 @@ color:#ef8172;
     text-align: center;
     padding: 20px;
 }
+
+
+
+@media (max-width: 1000px) {
+
+    .title-image{
+        width: 60%;
+        position: static;
+    }
+    
+    #title{
+        text-align: center;
+    }
+    
+    }
