@@ -148,11 +148,13 @@ color:#ef8172;
 
 .row-pricing{
     margin: 0 50px;
+    width: auto;
 }
 .pricing-tab{
-    padding: 3% 5%;
-    margin: auto;
-    width: auto;
+    padding-right: 3%;
+    padding-left: 3%;
+    margin: 0;
+    width: 30%;
 }
 
 .button-premium{
@@ -162,6 +164,8 @@ color:#ef8172;
 .h2-card{
     padding-bottom: 60px;
 }
+
+
 
 /* Call to Action */
 
@@ -186,6 +190,8 @@ color:#ef8172;
 
 .footer-icons{
     padding-right: 10px;
+    text-decoration: none;
+    color:black;
 }
 
 
@@ -204,7 +210,8 @@ color:#ef8172;
         text-align: center;
     }
     
-    .pricing-tab{
+    .pricing-tab{ 
+        width: 100%;
         
     }
 
